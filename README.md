@@ -51,7 +51,7 @@ for i in range (n):
 ```
 
 ## Output:
-![gaussian elimination](.\ss3.PNG)
+![output](./s1.png)
 
 
 ## Result:
