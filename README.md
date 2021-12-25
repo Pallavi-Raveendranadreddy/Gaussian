@@ -51,7 +51,7 @@ for i in range (n):
 ```
 
 ## Output:
-![output](./s1.png)![image](https://user-images.githubusercontent.com/94294872/147378744-70dfa854-7691-4d3e-b43e-c1cf333813bd.png)
+![image](https://user-images.githubusercontent.com/94294872/147378744-70dfa854-7691-4d3e-b43e-c1cf333813bd.png)
 
 
 
